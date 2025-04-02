@@ -1,0 +1,32 @@
+name: Validate JSON Entries
+description: Validate JSON entries in awesome_open_geoscience.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "awesome_open_geoscience.json"
+  pull_request:
+    paths:
+      - "awesome_open_geoscience.json"
+  workflow_dispatch:
+
+jobs:
+  check-entries:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install jsonschema
+
+      - name: Validate JSON Entries
+        run: |
+          python scripts/validate_json_entries.py awesome_open_geoscience.json

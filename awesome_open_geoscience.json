@@ -1,0 +1,1108 @@
+[
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome-Spatial",
+    "description": "![Awesome](media/icon/awesome.png) Awesome list for geospatial, not specific to geoscience but significant overlap.",
+    "url": "https://github.com/RoboDonut/awesome-spatial"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome Open Climate Science",
+    "description": "![Awesome](media/icon/awesome.png) Awesome list for atmospheric, ocean, climate, and hydrologic science.",
+    "url": "https://github.com/pangeo-data/awesome-open-climate-science"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome Coastal",
+    "description": "![Awesome](media/icon/awesome.png) Awesome list for coastal engineers and scientists.",
+    "url": "https://github.com/chrisleaman/awesome-coastal"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome Earth Artificial Intelligence",
+    "description": "![Awesome](media/icon/awesome.png) Awesome list for artificial intelligence use cases in Earth Science maintinaed by ESIP (Earth Science Information Partners, which is a earth science informatics community) Machine Learning Cluster.",
+    "url": "https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome GIS",
+    "description": "Awesome list related to all things Geographic Information Systems (GIS).",
+    "url": "https://github.com/sshuair/awesome-gis"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome Historic(al) Maps",
+    "description": "Awesome list of resources, databases and tools related to Historic Maps.",
+    "url": "https://github.com/stark1tty/Awesome-Historic_al-Maps"
+  },
+  {
+    "category": "Related Awesome",
+    "subcategory": null,
+    "name": "Awesome Open Hydrology",
+    "description": "Awesome list of resources and tools related to hydrology",
+    "url": "https://github.com/Open-Environmental-Science/awesome-open-hydrology"
+  },
+  {
+    "category": "Open Books",
+    "subcategory": null,
+    "name": "Geospatial Data Science with Julia",
+    "description": "![Julia](media/icon/julia.png) Introductory book on geospatial data science with the Julia programming language.",
+    "url": "https://juliaearth.github.io/geospatial-data-science-with-julia"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Auralib",
+    "description": "![Python](media/icon/python.png) / Python package to support investigation of geoscience problems including geophysics, rock physics, petrophysics, and data read/write in common formats.",
+    "url": "https://github.com/whamlyn/auralib"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Bruges",
+    "description": "![Python](media/icon/python.png) Various geophysical equations and tools.",
+    "url": "https://github.com/agile-geoscience/bruges/tree/master/bruges"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Madagascar",
+    "description": "![C](media/icon/c.png) ![Python](media/icon/python.png) Multi-dimensional data processing suite.",
+    "url": "https://ahay.org/wiki/Main_Page"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "MDIO",
+    "description": "![Python](media/icon/python.png) Open source chunked and compressed cloud storage for seismic data based on Zarr with fast seismic ingestion and export tools \u2013 [Docs](https://mdio-python.readthedocs.io), [Source](https://github.com/TGSAI/mdio-python).",
+    "url": "https://mdio.dev"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "ObsPy",
+    "description": "![Python](media/icon/python.png) Framework for reading, writing and processing seismic and seismological data.",
+    "url": "https://github.com/obspy/obspy/wiki"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "OpendTect-Plugins",
+    "description": "![C++](media/icon/cplusplus.png) open source plugins for the [OpendTect](#platforms) seismic interpretation platform. See [the docs](http://waynegm.github.io/OpendTect-Plugin-Docs) for more information.",
+    "url": "https://github.com/waynegm/OpendTect-Plugins"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "OpenSeaSeis",
+    "description": "![C++](media/icon/cplusplus.png) Seismic workflow generator and seismic viewer.",
+    "url": "https://github.com/JohnWStockwellJr/OpenSeaSeis"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Pastas",
+    "description": "![Python](media/icon/python.png) Open-source Python framework for the analysis of groundwater time series.",
+    "url": "https://github.com/pastas/pastas"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Pyrocko",
+    "description": "![Python](media/icon/python.png) Seismology toolkit.",
+    "url": "https://git.pyrocko.org/pyrocko/pyrocko"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "pyVDS",
+    "description": "![Python](media/icon/python.png) Convenience wrapper around Bluware's OpenVDS+ Python bindings which enables reading of VDS files with a syntax familiar to users of segyio.",
+    "url": "https://github.com/equinor/pyvds"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "pyZGY",
+    "description": "![Python](media/icon/python.png) Convenience wrapper around Schlumberger's OpenZGY Python package which enables reading of ZGY files with a syntax familiar to users of segyio.",
+    "url": "https://github.com/equinor/pyzgy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "RedPy",
+    "description": "![Python](media/icon/python.png) Auto-clustering for seismic events.",
+    "url": "https://github.com/ahotovec/REDPy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "rsudp",
+    "description": "![Python](media/icon/python.png) Continuous ObsPy-based visual display, sudden motion monitoring, and historical replay of Raspberry Shake data.",
+    "url": "https://github.com/raspishake/rsudp"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Segyio",
+    "description": "![Python](media/icon/python.png) / ![matlab](media/icon/matlab.png) Fast library for seismic SEGY files.",
+    "url": "https://github.com/equinor/segyio"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "SeisComp",
+    "description": "![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Seismic observatory automation toolkit. Autodetection, storage, sharing, processing data and more.",
+    "url": "https://github.com/SeisComP/seiscomp"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "Seismic Un\\*x",
+    "description": "![C](media/icon/c.png) Seismic data processing suite.",
+    "url": "https://github.com/JohnWStockwellJr/SeisUnix"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "SeismicZFP",
+    "description": "![Python](media/icon/python.png) Convert SEG-Y/ZGY files to compressed [SGZ files](https://github.com/equinor/seismic-zfp/blob/master/docs/file-specification.md) & retrieve arbitrary sub-volumes from these, fast.",
+    "url": "https://github.com/equinor/seismic-zfp"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Seismic and Seismology",
+    "name": "synthoseis",
+    "description": "![Python](media/icon/python.png) Synthoseis is an open-source, Python-based tool used for generating pseudo-random seismic data.",
+    "url": "https://github.com/sede-open/synthoseis"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Ground-Penetrating Radar",
+    "name": "gprMax",
+    "description": "![Python](media/icon/python.png) ![CUDA](media/icon/cuda.png) Finite-difference time-domain electromagnetic wave propagation simulator (on CPU and GPU).",
+    "url": "http://www.gprmax.com"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Ground-Penetrating Radar",
+    "name": "GPRPy",
+    "description": "![Python](media/icon/python.png) Multi-format, GUI-based GPR processing and visualization.",
+    "url": "https://github.com/NSGeophysics/GPRPy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Ground-Penetrating Radar",
+    "name": "RAGU",
+    "description": "![Python](media/icon/python.png) Radar interpretation GUI compatible with multiple radar datasets.",
+    "url": "https://github.com/btobers/RAGU"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Ground-Penetrating Radar",
+    "name": "readgssi",
+    "description": "![Python](media/icon/python.png) Fast command line or console-based visualization, filtering, and translation of GSSI radar data.",
+    "url": "https://github.com/iannesbitt/readgssi"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Ground-Penetrating Radar",
+    "name": "RGPR",
+    "description": "![R](media/icon/r.png) Reads, exports, processes, and plots ground-penetrating radar data.",
+    "url": "https://github.com/emanuelhuber/RGPR"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "dlisio",
+    "description": "![Python](media/icon/python.png) Parser for dlis and lis well log files.",
+    "url": "https://github.com/equinor/dlisio"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "lasio",
+    "description": "![Python](media/icon/python.png) Reading and writing well data using Log ASCII Standard (LAS) files.",
+    "url": "https://github.com/kinverarity1/lasio"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "OpenGeoPlotter",
+    "description": "![Python](media/icon/python.png) Create strip logs, drill sections, other plots.",
+    "url": "https://github.com/bsomps/OpenGeoPlotter"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "PetroPy",
+    "description": "![Python](media/icon/python.png) \u2013 Petrophysics package for conventional and unconventional formation evaluation and includes basic well log visualization via matplotlib.",
+    "url": "https://github.com/toddheitmann/PetroPy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "Striplog",
+    "description": "![Python](media/icon/python.png) Display lithological and stratigraphic logs for wells and outcrop.",
+    "url": "https://github.com/agile-geoscience/striplog"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "Wellioviz",
+    "description": "![JavaScript](media/icon/javascript.png) \u2013 Visualizes well logs using d3.js. Companion to Wellio.js.",
+    "url": "https://github.com/JustinGOSSES/wellioviz"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "Wellpathpy",
+    "description": "![Python](media/icon/python.png) \u2013 Light package to load well deviations.",
+    "url": "https://github.com/Zabamund/wellpathpy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Well Log",
+    "name": "Welly",
+    "description": "![Python](media/icon/python.png) Analyzing and processing well log data.",
+    "url": "https://github.com/agile-geoscience/welly"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "bh_tomo",
+    "description": "![matlab](media/icon/matlab.png) Borehole radar and seismic tomography package.",
+    "url": "https://github.com/groupeLIAMG/bh_tomo"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "Basic Model Interface (BMI)",
+    "description": "![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) ![Fortran](media/icon/fortran.png) ![Python](media/icon/python.png) A standardized set of functions for model-model and model-data coupling.",
+    "url": "https://github.com/csdms/bmi"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "PyGMI",
+    "description": "![Python](media/icon/python.png) It is a modelling and interpretation suite aimed at magnetic, gravity and other datasets.",
+    "url": "https://patrick-cole.github.io/pygmi/pygmi.html"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "BlenderGeoModeller",
+    "description": "![Python](media/icon/python.png) A Blender add-on with a collection of tools for 3-D geological modelling.",
+    "url": "https://github.com/bsomps/BlenderGeoModeller"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "PyMT",
+    "description": "![Python](media/icon/python.png) Python toolkit for coupling models and datasets that expose the [Basic Model Interface (BMI)](https://bmi.readthedocs.io/en/latest).",
+    "url": "https://github.com/csdms/pymt"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "Devito",
+    "description": "![Python](media/icon/python.png) Finite-Difference computation from high-level symbolic problem definitions.",
+    "url": "https://www.devitoproject.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "disba",
+    "description": "![Python](media/icon/python.png) Numba-accelerated computation of surface wave dispersion.",
+    "url": "https://github.com/keurfonluu/disba"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "emsig",
+    "description": "![Python](media/icon/python.png) Controlled-source electromagnetic modellers for layered (`empymod`) and three-dimensional (`emg3d`) anisotropic media.",
+    "url": "https://emsig.xyz"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "Fatiando a Terra",
+    "description": "![Python](media/icon/python.png) Modelling and inversion in geophysics.",
+    "url": "https://github.com/fatiando"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "GemPy",
+    "description": "![Python](media/icon/python.png) 3-D structural geological modelling software with implicit modelling and support for stochastic modelling.",
+    "url": "https://github.com/cgre-aachen/gempy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "GeoPhyInv",
+    "description": "Julia Toolbox for Geophysical Modeling and Inverse Problems.",
+    "url": "https://github.com/pawbz/GeoPhyInv.jl"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "HyVR",
+    "description": "![Python](media/icon/python.png) 3-D anisotropic subsurface models based on geological concepts that can be used with groundwater flow simulators (e.g., [ModFlow](#simulation-and-modelling)).",
+    "url": "https://github.com/driftingtides/hyvr"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "Landlab",
+    "description": "![Python](media/icon/python.png) Simulate surface processes using a large suite of existing interoperable process components (landscape evolution, sediment dynamics, surface hydrology, ecohydrology), exensible by own modules.",
+    "url": "https://github.com/landlab/landlab"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "LoopStructural",
+    "description": "![Python](media/icon/python.png) an open-source 3D structural geological modelling library.",
+    "url": "https://github.com/Loop3D/LoopStructural"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "modelr.io",
+    "description": "![Python](media/icon/python.png) ![Javascript](media/icon/javascript.png) Web app for simple synthetic seismic forward modelling.",
+    "url": "https://github.com/agile-geoscience/modelr"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "ModFlow",
+    "description": "![F90](media/icon/fortran.png) Flow modelling software distributed by the USGS to simulate and predict groundwater conditions and groundwater/surface-water interactions with additional variants and add-ons.",
+    "url": "https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "OccamyPy",
+    "description": "![Python](media/icon/python.png) an object-oriented optimization framework for small- and large-scale problems.",
+    "url": "https://github.com/fpicetti/occamypy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "PyFWI",
+    "description": "![Python](media/icon/python.png) ![C](media/icon/c.png) It can be used to perform full-waveform inversion (FWI) and time-lapse FWI of seismic data.",
+    "url": "https://pyfwi.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "pyGeoPressure",
+    "description": "![Python](media/icon/python.png) Pore pressure prediction using well log data and seismic velocity data.",
+    "url": "https://pygeopressure.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "pyGIMLi",
+    "description": "![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Multi-method library for solving inverse and forward tasks related to geophysical problems.",
+    "url": "https://www.pygimli.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "PyLops",
+    "description": "![Python](media/icon/python.png) Linear Operators with some geophysics/seismic modules (e.g., pre- and post-stack AVO inversion, deconvolution, Marchenko redatuming, Radon filtering).",
+    "url": "https://pylops.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "PySIT",
+    "description": "![Python](media/icon/python.png) A Toolbox for seismic inversion and seismic imaging.",
+    "url": "http://pysit.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "ResIPy",
+    "description": "![Python](media/icon/python.png) an intuitive open source software for complex geoelectrical inversion/modeling.",
+    "url": "https://gitlab.com/hkex/resipy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "SimPEG",
+    "description": "![Python](media/icon/python.png) Simulation and parameter estimation in geophysics.",
+    "url": "https://github.com/simpeg/simpeg"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "ttcrpy",
+    "description": "![Python](media/icon/python.png) ![C++](media/icon/cplusplus.png) Traveltime computation and raytracing on 2D & 3D rectilinear grids and unstructured meshes.",
+    "url": "https://ttcrpy.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Simulation and Modelling",
+    "name": "XTgeo",
+    "description": "![Python](media/icon/python.png) Python library with C backend to support manipulation of (oil industry) subsurface reservoir modelling.",
+    "url": "https://xtgeo.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "DuMu<sup>x</sup>",
+    "description": "![C++](media/icon/cplusplus.png) Simulator for flow and transport processes in porous media.",
+    "url": "https://dumux.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "ecl",
+    "description": "![Python](media/icon/python.png) Reading and writing Eclipse reservoir simulator files.",
+    "url": "https://github.com/equinor/ecl"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "Fesapi",
+    "description": "![C++](media/icon/cplusplus.png) ![C++](media/icon/java.png) ![C++](media/icon/csharp.png) Reading and writing [RESQML2](https://www.energistics.org/resqml-data-standards) files.",
+    "url": "https://github.com/F2I-Consulting/fesapi"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "libres",
+    "description": "![Python](media/icon/python.png) Tool for managing an ensemble of reservoir models.",
+    "url": "https://github.com/equinor/libres"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "MRST",
+    "description": "![matlab](media/icon/matlab.png) Rapid prototyping and demonstration of new simulation methods in reservoir modelling and simulation.",
+    "url": "https://www.sintef.no/projectweb/mrst"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "ResInsight",
+    "description": "![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) ResInsight is a powerful open source, cross-platform 3D visualization, curve plotting, and post processing tool for reservoir models and simulations.",
+    "url": "https://github.com/OPM/ResInsight"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "SHEMAT-Suite",
+    "description": "![Fortran](media/icon/fortran.png) Simulator for flow, heat and species transport in porous media including stochastic and deterministic parameter estimation.",
+    "url": "https://git.rwth-aachen.de/SHEMAT-Suite/SHEMAT-Suite-open"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Reservoir Engineering",
+    "name": "DeepField",
+    "description": "![Python](media/icon/python.png) A framework for reading and writing Eclipse reservoir data, reservoir preprocessing and interactive visualization.",
+    "url": "https://github.com/deepfield-team/DeepField"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "GeostatsPy",
+    "description": "![Python](media/icon/python.png) GSLIB reimplimented in Python.",
+    "url": "https://github.com/GeostatsGuy/GeostatsPy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "GeoStats.jl",
+    "description": "![Julia](media/icon/julia.png) High-performance geostatistics in Julia.",
+    "url": "https://github.com/JuliaEarth/GeoStats.jl"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "GeoStat-Framework",
+    "description": "![Python](media/icon/python.png) Framework for geostatistical simulations.",
+    "url": "https://github.com/GeoStat-Framework"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "gstat",
+    "description": "![Python](media/icon/r.png) Geostatistical modelling, prediction and simulation.",
+    "url": "https://github.com/r-spatial/gstat"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "gstlearn",
+    "description": "![Python](media/icon/python.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) Complete cross-platform library and packages for Geostatistics proposed by MINES PARIS \u2013 PSL University.",
+    "url": "https://gstlearn.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "G2S",
+    "description": "![Python](media/icon/python.png) ![matlab](media/icon/matlab.png) ![R](media/icon/r.png) ![C++](media/icon/cplusplus.png) ![CUDA](media/icon/cuda.png) A free, flexible and multi-language multiple point (MPS) (geo)statistics framework including the state-of-the-art algorithm QuickSampling.",
+    "url": "https://gaia-unil.github.io/G2S"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "HPGL",
+    "description": "![Python](media/icon/python.png) High perfomance geostatistics library.",
+    "url": "https://github.com/hpgl/hpgl"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "PyGSLIB",
+    "description": "![Python](media/icon/python.png) Mineral resource estimations.",
+    "url": "https://opengeostat.github.io/pygslib/index.html"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "Pyinterpolate",
+    "description": "![Python](media/icon/python.png) Kriging, Poisson Kriging, Semivariogram Deconvolution, Areal Kriging and other spatial interpolation methods in Python for Earth, Ecology and Social Sciences.",
+    "url": "https://github.com/DataverseLabs/pyinterpolate"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "pyKriging",
+    "description": "![Python](media/icon/python.png) N-dimensional kriging.",
+    "url": "https://github.com/capaulson/pyKriging"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "pysgems",
+    "description": "![Python](media/icon/python.png) Use SGeMS (Stanford geostatistical modelling software) within Python.",
+    "url": "https://github.com/robinthibaut/pysgems"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "SciKit-GStat",
+    "description": "![Python](media/icon/python.png) SciPy-styled analysis module for geostatistics.",
+    "url": "https://github.com/mmaelicke/scikit-gstat"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "SGeMS",
+    "description": "![CUDA](media/icon/cuda.png) Stanford geostatistical modelling software.",
+    "url": "http://sgems.sourceforge.net"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geostatistics",
+    "name": "bm_geostat_process",
+    "description": "![Python](media/icon/python.png) open source workflow for geostatistics block models",
+    "url": "https://github.com/pemn/bm_geostat_process"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "Generic Mapping Tools (GMT)",
+    "description": "![C](media/icon/c.png)  About 80 command-line tools for manipulating geographic and Cartesian data sets.",
+    "url": "https://www.generic-mapping-tools.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "geonotebook",
+    "description": "![Python](media/icon/python.png) Jupyter notebook extension for geospatial visualization and analysis developed by NASA.",
+    "url": "https://github.com/OpenGeoscience/geonotebook"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "GeoPHP",
+    "description": "![PHP](media/icon/php.png) Geospatial library that works with many formats.",
+    "url": "https://geophp.net"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "GRASS-GIS",
+    "description": "GIS platform, see [Platforms](#platforms).",
+    "url": "#platforms"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "QGIS",
+    "description": "GIS platform, see [Platforms](#platforms).",
+    "url": "#platforms"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "Stress2Grid",
+    "description": "![matlab](media/icon/matlab.png) Two concepts to calculate the mean SHmax orientation.",
+    "url": "https://dataservices.gfz-potsdam.de/wsm/showshort.php?id=escidoc:2112906"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "Verde",
+    "description": "![Python](media/icon/python.png) processing spatial data to regular grids.",
+    "url": "https://github.com/fatiando/verde"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "vtk_triangulate_points",
+    "description": "![Python](media/icon/python.png) Generate simplified topography surfaces from dense point clouds (lidar/radar/drone).",
+    "url": "https://github.com/pemn/vtk_triangulate_points"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "whitebox-tools",
+    "description": "![Python](media/icon/python.png) An advanced geospatial data analysis platform.",
+    "url": "https://github.com/jblindsay/whitebox-tools"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "gemgis",
+    "description": "![Python](media/icon/python.png) Spatial data processing for geomodeling",
+    "url": "https://github.com/cgre-aachen/gemgis"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geospatial",
+    "name": "SamGIS",
+    "description": "![Python](media/icon/python.png) Image Segmentation machine learning based (Segment Anything by Meta - Facebook) applied to GIS and geo data. HuggingFace demo [here](https://huggingface.co/spaces/aletrn/samgis).",
+    "url": "https://github.com/trincadev/samgis-be"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "GeoPyTool",
+    "description": "![Python](media/icon/python.png) Application with geochemical plotting capabilities.",
+    "url": "https://github.com/GeoPyTool/GeoPyTool"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "PhreeQC",
+    "description": "![C++](media/icon/cplusplus.png) Reactions in water and between water and rocks and sediments (speciation, batch-reaction, one-dimensional transport, and inverse geochemical calculations).",
+    "url": "https://www.usgs.gov/software/phreeqc-version-3"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "pyrolite",
+    "description": "![Python](media/icon/python.png) Geochemical transformation and visualisation.",
+    "url": "https://github.com/morganjwilliams/pyrolite"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "Reaktoro",
+    "description": "![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Unified framework for modelling chemically reactive systems.",
+    "url": "https://reaktoro.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "Thermobar",
+    "description": "![Python](media/icon/python.png) Thermobarometry, chemometry and mineral equilibrium tool.",
+    "url": "https://github.com/PennyWieser/Thermobar"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "CHNOSZ",
+    "description": "![R](media/icon/r.png) Thermodynamic calculations and diagrams for geochemistry, R Packages for Geochemistry: CHNOSZ and logKcalc",
+    "url": "https://www.chnosz.net/"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochemistry",
+    "name": "GeoChemical Data toolkit \u2013 GCDKit",
+    "description": "![R](media/icon/r.png) System for handling and recalculation of whole-rock analyses from igneous rocks: Standard geochemical calculations and many of the common plots (binary, ternary, spider diagrams).",
+    "url": "https://gcdkit.org/"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geodynamics",
+    "name": "Underworld",
+    "description": "Computational tools for the geodynamics community.",
+    "url": "https://github.com/underworldcode/underworld2"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Magnetotellurics",
+    "name": "Razorback",
+    "description": "![Python](media/icon/python.png) An Python library for magnetotelluric robust processing.",
+    "url": "https://github.com/brgm/razorback"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Magnetotellurics",
+    "name": "MATE",
+    "description": "A Python program for interpreting magnetotelluric models of the mantle.",
+    "url": "https://github.com/sinanozaydin/MATE"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Magnetotellurics",
+    "name": "MTPy",
+    "description": "A Python Toolbox for magnetotelluric data processing, analysis, modelling and visualization.",
+    "url": "https://github.com/MTgeophysics/mtpy"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Structural Geology",
+    "name": "apsg",
+    "description": "![Python](media/icon/python.png) Advanced structural geology analysis and visualisation based on Matplotlib.",
+    "url": "https://github.com/ondrolexa/apsg"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Structural Geology",
+    "name": "mplStereonet",
+    "description": "![Python](media/icon/python.png) Stereonets on python based on Matplotlib.",
+    "url": "https://github.com/joferkington/mplstereonet"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Structural Geology",
+    "name": "OpenStereo",
+    "description": "![Python](media/icon/python.png) An open source, cross-platform structural geology analysis software.",
+    "url": "https://github.com/spamlab-iee/os"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Structural Geology",
+    "name": "Stress_state_plot",
+    "description": "![Python](media/icon/python.png) An open source structural geology package for visualisation of a given stess-state via matplotlib.",
+    "url": "https://github.com/mkondratyev85/stress_state_plot"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "cmocean",
+    "description": "![Python](media/icon/python.png) MatPlotLib collection of perceptual colormaps for oceanography.",
+    "url": "https://matplotlib.org/cmocean"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "Colorcet",
+    "description": "![Python](media/icon/python.png) Perceptual colormaps.",
+    "url": "https://github.com/holoviz/colorcet"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "Geologic Patterns",
+    "description": "Entire FGDC pattern library extracted to SVG and PNG for use in geologic maps and stratigraphic columns.",
+    "url": "https://github.com/davenquinn/geologic-patterns"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "ipyleaflet",
+    "description": "![Python](media/icon/python.png) 2D interactive maps and GIS visualization in the Jupyter Notebook.",
+    "url": "https://github.com/jupyter-widgets/ipyleaflet"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "localtileserver",
+    "description": "![Python](media/icon/python.png) A Python package for serving tiles from large raster files in the Slippy Maps standard (i.e., `/zoom/x/y.png`) for visualization in Jupyter with `ipyleaflet` or `folium`.",
+    "url": "https://github.com/banesullivan/localtileserver"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "omfvista",
+    "description": "![Python](media/icon/python.png) PyVista interface for the [Open Mining Format (omf)](#miscellaneous) package.",
+    "url": "https://github.com/OpenGeoVis/omfvista"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "PyVista",
+    "description": "![Python](media/icon/python.png) 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).",
+    "url": "https://github.com/pyvista/pyvista"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "PVGeo",
+    "description": "[![Python](media/icon/python.png)](https://pypi.org/project/PVGeo) [![ParaView](media/icon/paraview.png)](https://www.paraview.org) Data and model visualization in ParaView and Visualization Toolkit (VTK) via PyVista.",
+    "url": "https://github.com/OpenGeoVis/PVGeo"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "GeoVista",
+    "description": "![Python](media/icon/python.png) Cartographic rendering and mesh analytics powered by PyVista.",
+    "url": "https://github.com/bjlittle/geovista"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Visualization",
+    "name": "Digitize Heatmap",
+    "description": "Get numerical data from a heatmap from a PDF format.",
+    "url": "https://github.com/RyanFu008/digitize-heatmap"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "GRASS-GIS",
+    "description": "GIS platform for vector and raster geospatial data management, geoprocessing, spatial modelling and visualization, ![C](media/icon/c.png) ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OSGeo/grass).",
+    "url": "https://grass.osgeo.org"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "OpendTect",
+    "description": "Seismic interpretation package, ![C++](media/icon/cplusplus.png) source code available at [github](https://github.com/OpendTect/OpendTect).",
+    "url": "https://dgbes.com/software/opendtect"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "OpenGeode",
+    "description": "![C++](media/icon/cplusplus.png) ![Python](media/icon/python.png) Representation and manipulation of geological models.",
+    "url": "https://github.com/Geode-solutions/OpenGeode"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "Pangeo",
+    "description": "![Python](media/icon/python.png) A community platform for Big Data geoscience built on top of the open source scientific python ecosystem.",
+    "url": "https://pangeo.io"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "QGIS",
+    "description": "GIS platform to visualize, manage, edit, analyse data, and compose printable maps.",
+    "url": "https://qgis.org/en/site"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "Webviz",
+    "description": "![Python](media/icon/python.png) Webviz is a wrapper on top of Dash from Plotly which encourages making reusable data visualisation components and dashboards.",
+    "url": "https://github.com/equinor/webviz-config"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Platforms",
+    "name": "Webviz-subsurface",
+    "description": "![Python](media/icon/python.png) Webviz-subsurface contains subsurface specific standard webviz containers, which are used as plugins in webviz-config.",
+    "url": "https://github.com/equinor/webviz-subsurface"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Natural Language Processing",
+    "name": "geoVec",
+    "description": "![Python](media/icon/python.png) \"Word embeddings for application in geosciences: development, evaluation and examples of soil-related concepts\" and an [implementation](https://github.com/JustinGOSSES/geoVec-playground).",
+    "url": "https://osf.io/4uyeq/wiki/home"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochronology",
+    "name": "IsoplotR",
+    "description": "![R](media/icon/r.png) A free and open-source substitute for Kenneth Ludwig's popular _Isoplot_ add-in to Microsoft Excel.",
+    "url": "https://github.com/pvermees/IsoplotR"
+  },
+  {
+    "category": "Software",
+    "subcategory": "Geochronology",
+    "name": "pychron",
+    "description": "![Python](media/icon/python.png) Data acquisition and processing framework for Ar-Ar geochronology and noble gas mass spectrometry.",
+    "url": "https://github.com/NMGRL/pychron"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Athabasca Oil Sands Well Dataset McMurray/Wabiskaw",
+    "description": "Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada.",
+    "url": "https://ags.aer.ca/publication/spe-006"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Digital Rocks Portal",
+    "description": "Powerful data portal for images of varied porous micro-structures.",
+    "url": "https://www.digitalrocksportal.org"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Geoscience Australia Portal",
+    "description": "Comprehensive map-based Australian data portal across multiple geoscience domains.",
+    "url": "https://portal.ga.gov.au"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "GSQ Open Data Portal",
+    "description": "Petroleum, coal, and mineral geoscience data from the Queensland resource industry and government, with supporting information from [GSQ GitHub Repository](https://github.com/geological-survey-of-queensland) for Data Models, RDF Vocabularies, and system design. Use of VPN may result in 403 error.",
+    "url": "https://geoscience.data.qld.gov.au/"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "ICGEM",
+    "description": "Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals (geoid, gravity anomaly, vertical derivatives, etc).",
+    "url": "http://icgem.gfz-potsdam.de/home"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "NOPIMS",
+    "description": "Open petroleum geoscience data from Western Australia made available by the Australian Government.",
+    "url": "http://www.ga.gov.au/nopims"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Poseidon NW Australia",
+    "description": "Interpreted 3D seismic (32bit) including reports and well logs.",
+    "url": "https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Quantarctica",
+    "description": "User-configurable [QGIS](#platforms) basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data.",
+    "url": "https://www.npolar.no/quantarctica"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "SARIG",
+    "description": "South Australian Resources and Information Gateway providing map-based statewide geoscientific and geospatial data with over 600 datasets.",
+    "url": "https://map.sarig.sa.gov.au"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "SEG Open Data Catalog",
+    "description": "Catalog of \"geophysical data that is readily available for download from the internet, via mail, or through special request\", maintained by the Society of Exploration Geophysicists.",
+    "url": "https://wiki.seg.org/wiki/Open_data"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "TerraNubis",
+    "description": "The new _Open Seismic Repository_, includes the classic F3 and Penobscot seismic volumes (which both also have wells and other data assets).",
+    "url": "https://terranubis.com/datalist/free"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "UK National Data Repository",
+    "description": "Open petroleum geoscience data from the UK Government (free registration required).",
+    "url": "https://ndr.ogauthority.co.uk"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "World Stress Map",
+    "description": "A global compilation of information on the crustal present-day stress field.",
+    "url": "http://www.world-stress-map.org"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Costa Model",
+    "description": "A hierarchical carbonate reservoir benchmarking case study.",
+    "url": "https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "EarthChem",
+    "description": "Community-driven preservation, discovery, access, and visualization of geochemical, geochronological, and petrological data.",
+    "url": "https://www.earthchem.org/"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Volve data village",
+    "description": "A complete set of data from a North Sea oil field available for research, study and development purposes.",
+    "url": "https://www.equinor.com/energy/volve-data-sharing"
+  },
+  {
+    "category": "Data Repositories",
+    "subcategory": null,
+    "name": "Macrostrat",
+    "description": "A multiscale, harmonized, and globally-defined geologic map dataset and stratigraphic API.",
+    "url": "https://macrostrat.org"
+  },
+  {
+    "category": "Tutorials and Cheat Sheets",
+    "subcategory": null,
+    "name": "Basic Geoscience Cheat Sheet",
+    "description": "Cheat Sheet for Basic Geoscience.",
+    "url": "https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed95fff0/1295033898443/Cheatsheet_basic.pdf"
+  },
+  {
+    "category": "Tutorials and Cheat Sheets",
+    "subcategory": null,
+    "name": "Geophysics Cheat Sheet",
+    "description": "Cheat Sheet for Geophysics.",
+    "url": "https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d70e4b0d158ed9603f5/1350658645407/Cheatsheet_geophysics.pdf"
+  },
+  {
+    "category": "Tutorials and Cheat Sheets",
+    "subcategory": null,
+    "name": "Petroleum Science Cheat Sheet",
+    "description": "Cheat Sheet for Petroleum Science.",
+    "url": "https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed96019e/1323808738753/Cheatsheet_petroleum.pdf"
+  },
+  {
+    "category": "Tutorials and Cheat Sheets",
+    "subcategory": null,
+    "name": "Rock Physics Cheat Sheet",
+    "description": "Cheat Sheet for Rock Physics.",
+    "url": "https://static.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/54a06d6ee4b0d158ed95f696/54a06d6fe4b0d158ed960042/1374593568367/Cheatsheet_Rock_Physics.pdf"
+  },
+  {
+    "category": "Tutorials and Cheat Sheets",
+    "subcategory": null,
+    "name": "Project Pythia",
+    "description": "An education and training hub for the geoscientific Python community.",
+    "url": "https://projectpythia.org/"
+  },
+  {
+    "category": "Miscellaneous",
+    "subcategory": null,
+    "name": "gio",
+    "description": "![Python](media/icon/python.png) Geoscience file input and output functions for less-than standard data formats.",
+    "url": "https://github.com/agile-geoscience/gio"
+  },
+  {
+    "category": "Miscellaneous",
+    "subcategory": null,
+    "name": "Open Mining Format",
+    "description": "![Python](media/icon/python.png) Versatile mining data standard.",
+    "url": "https://omf.readthedocs.io/en/latest"
+  },
+  {
+    "category": "Miscellaneous",
+    "subcategory": null,
+    "name": "Software Underground Slack",
+    "description": "![slack](media/icon/slack.png) Community connecting geo\\computing researchers.",
+    "url": "https://softwareunderground.org"
+  }
+]

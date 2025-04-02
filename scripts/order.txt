@@ -1,0 +1,21 @@
+Related Awesome
+Open Books
+Software
+  Seismic and Seismology
+  Ground-Penetrating Radar
+  Well Log
+  Simulation and Modelling
+  Reservoir Engineering
+  Geostatistics
+  Geospatial
+  Geochemistry
+  Geodynamics
+  Magnetotellurics
+  Structural Geology
+  Visualization
+  Platforms
+  Natural Language Processing
+  Geochronology
+Data Repositories
+Tutorials and Cheat Sheets
+Miscellaneous

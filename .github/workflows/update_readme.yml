@@ -1,0 +1,68 @@
+name: Update README from JSON
+# This workflow automatically updates the README file whenever the JSON file or the script changes.
+on:
+  push:
+    paths:
+      - "awesome_open_geoscience.json" # JSON file in root directory
+      - "scripts/json_to_readme.py" # Python script
+      - "scripts/order.txt" # Order file
+      - "media/**" # Anything in 'media' folder
+  workflow_dispatch: # Allows manual triggering in GitHub Actions UI
+    inputs:
+      update_readme:
+        type: boolean
+        required: false
+        default: false
+  # schedule:
+  #   - cron: "0 0 * * 0" # Weekly on Sundays at midnight UTC
+
+  workflow_run:
+    # This workflow will run after the "Validate JSON Entries" workflow is completed
+    workflows: ["Validate JSON Entries"]
+    types: [completed]
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    # run only if the previous workflow run was successful or if manually triggered
+    # This is to prevent the README update from running if the JSON validation fails
+    if: >
+      (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success') ||
+      (github.event_name == 'workflow_dispatch' && github.event.inputs.update_readme == 'true')
+
+    runs-on: ubuntu-latest
+    # Grant write permissions to the GITHUB_TOKEN
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Generate README
+        run: python scripts/json_to_readme.py awesome_open_geoscience.json scripts/order.txt
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --quiet README.md || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README from JSON [skip ci]" || echo "No changes to commit"
+          # Use GITHUB_TOKEN for authentication
+          git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
